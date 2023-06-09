@@ -106,7 +106,7 @@ address {
     text-align: center;
 }
 .menu-list {
-    display: inline-brock;
+    display: inline-block;
     margin-left: 30px;
     list-style: disc;
     text-align: left;
@@ -131,7 +131,7 @@ accesse-row {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
-    -webkit-box-pack: jusitfy;
+    -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
     -webkit-box-align: center;
