@@ -28,12 +28,12 @@ a:hover {
 
 p {
     margin-top: 0;
-    margin-bottom: lem;
+    margin-bottom: 1em;
 }
 
 ul {
-    margin: lem 0;
-    padding:0%0;
+    margin: 1em 0;
+    padding:0;
     list-style: none;
 }
 
@@ -137,7 +137,7 @@ accesse-row {
     -webkit-box-align: center;
     -ms-flex-align: center;
     align-items: center;
-    margin: 0 aute;
+    margin: 0 auto;
 }
 .access-address{
     font-size: 14px;
@@ -151,7 +151,7 @@ accesse-row {
     -webkit-box-flex: 0;
     -ms-flex: 0 1 295px;
     flex: 0 1 295px;
-    max-width: 295;
+    max-width: 295px;
 }
 
 .footer {
